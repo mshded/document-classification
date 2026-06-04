@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+scikit-learn-intelex
+nltk
+datasets
+transformers
+torch
+gensim
+tqdm
